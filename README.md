@@ -1,6 +1,6 @@
 <h1 align="center">:file_cabinet: Projeto Discover - RockSeat (MyDevLinks)</h1>
 
-<img> 
+<img src="/media/Cover.png" alt=""> 
 
 ## :memo: Descrição
 Projeto desenvolvido durante o curso oferecido pela RockSeat chamado Discover!
